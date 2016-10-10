@@ -5,4 +5,4 @@ When you download or link in a JQuery library, then you can type '$' in colsole 
 
 parent tag, looks after its 'children'.
 
- jQuery shortens javascript
+jQuery ;
